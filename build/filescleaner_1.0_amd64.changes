@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 30 Mar 2015 17:38:38 -0400
+Source: filescleaner
+Binary: filescleaner
+Architecture: source all
+Version: 1.0
+Distribution: stable
+Urgency: low
+Maintainer: Aron Podrigal <aron@mongotel.com>
+Changed-By: Aron Podrigal <aron@mongotel.com>
+Description:
+ filescleaner - Monitors directories not to exceed the configured size.
+Changes:
+ filescleaner (1.0) stable; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ 23f6ddbf6daa85323b8bad29cf0ca74b7140dcb7 540 filescleaner_1.0.dsc
+ 0502e3cba79e373903ab0eada522249b732cdd79 7784 filescleaner_1.0.tar.xz
+ 854b6024d492ff1e1fcc460ad74c311395aac731 7692 filescleaner_1.0_all.deb
+Checksums-Sha256:
+ e8b72b15da41adbf10587b3ee063d7de5bbd2c48e6f4209b9c1033aad30b181f 540 filescleaner_1.0.dsc
+ 57312a12b11a487fbdbe51a6d38682845ec216f0b3456d806600bc219d658f40 7784 filescleaner_1.0.tar.xz
+ 02e134ec8e433b9ab8db1f5c0110c4c7aebd66d7db2da4551c56dd971739ba8e 7692 filescleaner_1.0_all.deb
+Files:
+ af48b24d863e0a439dec42904dbdf42f 540 admin optional filescleaner_1.0.dsc
+ 8554fb25afdae6da5dd400a87da45439 7784 admin optional filescleaner_1.0.tar.xz
+ 614d1250a3214af4f58d18effcb3ef0d 7692 admin optional filescleaner_1.0_all.deb
