@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+filescleaner.py => usr/sbin/filescleaner
+filescleaner.json => etc/filescleaner.json

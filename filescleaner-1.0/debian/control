@@ -1,0 +1,13 @@
+Source: filescleaner
+Section: admin
+Priority: optional
+Maintainer: Aron Podrigal <aron@mongotel.com>
+Build-Depends: debhelper (>= 9), python, dh-exec
+Standards-Version: 3.9.5
+
+Package: filescleaner
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}
+Description: Monitors directories not to exceed the configured size.
+	Monitors storage directories, and deletes files in first in \
+	first out order when it exceeds the max storage size.

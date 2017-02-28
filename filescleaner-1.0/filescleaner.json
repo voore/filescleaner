@@ -1,0 +1,7 @@
+{
+    "DIRECTORIES": {},
+    "DISK_SIZE": "20G",
+    "MAX_SIZE": "10G",
+    "SLEEP": 1800,
+    "START_DAEMON": false
+}
